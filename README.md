@@ -44,5 +44,10 @@ python customer_segmentation.py
 ## Results
 The script generates a scatter plot showing customer segments based on annual income and spending score.
 
+## OUTPUT 1 
+1. [Elbow Method](https://github.com/AyushGorlawar/PRODIGY_ML_02/blob/main/PRODIGY_ML_02_OUTPUT_01.png)
+2. [Cluster of Customers](https://github.com/AyushGorlawar/PRODIGY_ML_02/blob/main/PRODIGY_ML_02_OUTPUT_02.png).
+3. [Overall Output](https://github.com/AyushGorlawar/PRODIGY_ML_02/blob/main/PRODIGY_ML_02_OUTPUT.png).
+
 ## License
 This project is licensed under the [MIT License](https://github.com/AyushGorlawar/PRODIGY_ML_02/blob/main/LICENSE)
