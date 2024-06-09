@@ -45,4 +45,4 @@ python customer_segmentation.py
 The script generates a scatter plot showing customer segments based on annual income and spending score.
 
 ## License
-This project is licensed under the [MIT Licensehere](https://github.com/AyushGorlawar/PRODIGY_ML_02/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/AyushGorlawar/PRODIGY_ML_02/blob/main/LICENSE)
